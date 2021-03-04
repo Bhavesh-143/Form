@@ -100,6 +100,7 @@ body{
 	bottom: 0;
 	left: 0;
 	visibility: hidden;
+	padding-left: 7px;
 }
 
 .form-control.error small{
